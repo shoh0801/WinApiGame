@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="..\..\..\..\AR47 Git\AR47\CPlusPlus\GameEngineBase\GameEngineDebug.cpp" />
+    <ClCompile Include="..\..\..\..\AR47 Git\AR47\CPlusPlus\GameEngineBase\GameEngineRandom.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\..\AR47 Git\AR47\CPlusPlus\GameEngineBase\GameEngineDebug.h" />
+    <ClInclude Include="..\..\..\..\AR47 Git\AR47\CPlusPlus\GameEngineBase\GameEngineRandom.h" />
+  </ItemGroup>
+</Project>
