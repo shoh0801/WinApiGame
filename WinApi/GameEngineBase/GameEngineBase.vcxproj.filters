@@ -3,9 +3,21 @@
   <ItemGroup>
     <ClCompile Include="..\..\..\..\AR47 Git\AR47\CPlusPlus\GameEngineBase\GameEngineDebug.cpp" />
     <ClCompile Include="..\..\..\..\AR47 Git\AR47\CPlusPlus\GameEngineBase\GameEngineRandom.cpp" />
+    <ClCompile Include="GameEngineString.cpp" />
+    <ClCompile Include="GameEngineMath.cpp" />
+    <ClCompile Include="GameEngineTime.cpp" />
+    <ClCompile Include="GameEnginePath.cpp" />
+    <ClCompile Include="GameEngineDirectory.cpp" />
+    <ClCompile Include="GameEngineFile.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\..\..\AR47 Git\AR47\CPlusPlus\GameEngineBase\GameEngineDebug.h" />
     <ClInclude Include="..\..\..\..\AR47 Git\AR47\CPlusPlus\GameEngineBase\GameEngineRandom.h" />
+    <ClInclude Include="GameEngineString.h" />
+    <ClInclude Include="GameEngineMath.h" />
+    <ClInclude Include="GameEngineTime.h" />
+    <ClInclude Include="GameEnginePath.h" />
+    <ClInclude Include="GameEngineDirectory.h" />
+    <ClInclude Include="GameEngineFile.h" />
   </ItemGroup>
 </Project>
